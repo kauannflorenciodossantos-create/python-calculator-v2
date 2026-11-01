@@ -1,0 +1,6 @@
+{
+  "name": "PyCalc Studio - Calculadora Python com Terminal",
+  "description": "Calculadora moderna com animações fluidas, efeitos sonoros sintetizados, terminal interativo Python em tempo real e histórico de cálculos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
